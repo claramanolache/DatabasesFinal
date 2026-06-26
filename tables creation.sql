@@ -3,7 +3,7 @@ CREATE DATABASE IF NOT EXISTS acme_commercial_property;
 USE acme_commercial_property;
 CREATE TABLE Category (
       CategoryID INT AUTO_INCREMENT PRIMARY KEY,
-      Name VARCHAR(150) NOT NULL UNIQUE
+      Name VARCHAR(150) NOT NULL
 );
 
 CREATE TABLE Manufacturer (
