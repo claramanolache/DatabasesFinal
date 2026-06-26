@@ -1,0 +1,338 @@
+-------------- Test 1 --------------
+
+ProductID,ProductName,ModelNum,ManufacturerID,ManufacturerName
+1,Packaged Rooftop Unit:Aaon:RQ-003,RQ-003,1,Aaon
+2,Packaged Rooftop Unit:AAON:RQ-003,RQ-003,2,AAON
+3,Air Separator:Armstrong:VAS-6U,VAS-6U,3,Armstrong
+4,Air Separator:Armstrong:VAS-2,VAS-2,4,Armstrong
+5,Hydronic Circulation Pump:Grundfos:TP 40LP5/5.2,TP 40LP5/5.2,5,Grundfos
+6,Hydronic Circulation Pump:Grundfos:TP 40LP5/5.2,TP 40LP5/5.2,6,Grundfos
+7,Expansion Vessel:Armstrong:50-L,50-L,7,Armstrong
+8,Expansion Vessel:Armstrong:50-L,50-L,8,Armstrong
+9,Hydronic Circulation Pump:Bell & Gossett:XL 65‑130,XL 65‑130,9,Bell & Gossett
+10,Hydronic Circulation Pump:Bell & Gossett:XL 65‑130,XL 65‑130,10,Bell & Gossett
+11,Hydronic Circulation Pump:Bell & Gossett:TP 40LP5/5.2,TP 40LP5/5.2,11,Bell & Gossett
+12,Hydronic Circulation Pump:Bell & Gossett:TP 40LP5/5.2,TP 40LP5/5.2,12,Bell & Gossett
+13,Hydronic Circulation Pump:Bell & Gossett:TP 40LP5/5.2,TP 40LP5/5.2,13,Bell & Gossett
+14,Hydronic Circulation Pump:Bell & Gossett:TP 40LP5/5.2,TP 40LP5/5.2,14,Bell & Gossett
+15,Steam Humidifier:Condair:RS 180,RS 180,15,Condair
+16,Standby Generator:Cummins,,16,Cummins
+17,Air-Cooled Chiller:Daikin:R32‑10T,R32‑10T,17,Daikin
+18,Extract Fan:Greenheck:SP-A390-VG,SP-A390-VG,18,Greenheck
+19,Extract Fan:Greenheck:SP-B200,SP-B200,19,Greenheck
+20,Extract Fan:Greenheck:SP-B200,SP-B200,20,Greenheck
+21,Extract Fan:Greenheck:SP-B200,SP-B200,21,Greenheck
+22,Extract Fan:Greenheck:SP-B200,SP-B200,22,Greenheck
+23,Extract Fan:Greenheck:SP-B200,SP-B200,23,Greenheck
+24,Extract Fan:Greenheck:SQ-140-VG,SQ-140-VG,24,Greenheck
+25,Extract Fan:CaptiveAire:DU50HFA / DU85HFA,DU50HFA / DU85HFA,25,CaptiveAire
+26,Extract Fan:CaptiveAire:DU50HFA / DU85HFA,DU50HFA / DU85HFA,26,CaptiveAire
+27,Hydronic Circulation Pump:Grundfos:TP 40LP5/5.2,TP 40LP5/5.2,27,Grundfos
+28,Hydronic Circulation Pump:Grundfos:TP 40LP5/5.2,TP 40LP5/5.2,28,Grundfos
+29,Air Handling Unit:Huntair:CSU,CSU,29,Huntair
+30,Air Handling Unit:Huntair:CSU,CSU,30,Huntair
+31,Duct Silencer:IAC:3LFL 44X24,3LFL 44X24,31,IAC
+32,Duct Silencer:IAC:3LFL 48X24,3LFL 48X24,32,IAC
+33,Duct Silencer:IAC:3LFL 48X24,3LFL 48X24,33,IAC
+34,Gas-Fired Boiler:Lochinvar:KHB285N,KHB285N,34,Lochinvar
+35,Gas-Fired Boiler:Lochinvar:KHB285N,KHB285N,35,Lochinvar
+36,Split Air-Conditioning System:MITSUBISHI:IDU: PKA-AL18NL (R-454B)                                                  ODU: PUZ-AK18NL,IDU: PKA-AL18NL (R-454B)                                                  ODU: PUZ-AK18NL,36,MITSUBISHI
+37,Split Air-Conditioning System:Mitsubishi:IDU: PKA-AL18NL / ODU: PUZ-AK18NL,IDU: PKA-AL18NL / ODU: PUZ-AK18NL,37,Mitsubishi
+38,Split Air-Conditioning System:MITSUBISHI:IDU: PKA-AL18NL (R-454B)                                                  ODU: PUZ-AK18NL,IDU: PKA-AL18NL (R-454B)                                                  ODU: PUZ-AK18NL,38,MITSUBISHI
+39,Split Air-Conditioning System:Mitsubishi:IDU: PKA-AL18NL / ODU: PUZ-AK18NL,IDU: PKA-AL18NL / ODU: PUZ-AK18NL,39,Mitsubishi
+40,Split Air-Conditioning System:MITSUBISHI:IDU: PKA-AL18NL (R-454B)                                                  ODU: PUZ-AK18NL,IDU: PKA-AL18NL (R-454B)                                                  ODU: PUZ-AK18NL,40,MITSUBISHI
+41,Split Air-Conditioning System:Mitsubishi:IDU: PKA-AL18NL / ODU: PUZ-AK18NL,IDU: PKA-AL18NL / ODU: PUZ-AK18NL,41,Mitsubishi
+42,Split Air-Conditioning System:MITSUBISHI:IDU: PKA-AL18NL (R-454B)                                                  ODU: PUZ-AK18NL,IDU: PKA-AL18NL (R-454B)                                                  ODU: PUZ-AK18NL,42,MITSUBISHI
+43,Split Air-Conditioning System:Mitsubishi:IDU: PKA-AL18NL / ODU: PUZ-AK18NL,IDU: PKA-AL18NL / ODU: PUZ-AK18NL,43,Mitsubishi
+44,Split Air-Conditioning System:MITSUBISHI:IDU: PKA-AL18NL (R-454B)                                                  ODU: PUZ-AK18NL,IDU: PKA-AL18NL (R-454B)                                                  ODU: PUZ-AK18NL,44,MITSUBISHI
+45,Split Air-Conditioning System:Mitsubishi:IDU: PKA-AL18NL / ODU: PUZ-AK18NL,IDU: PKA-AL18NL / ODU: PUZ-AK18NL,45,Mitsubishi
+46,Dry-Type Transformer:POWER QUALITY INTERNATIONAL:DV30-60-045-480:208/120-150-AL-ZS,DV30-60-045-480:208/120-150-AL-ZS,46,POWER QUALITY INTERNATIONAL
+47,Dry-Type Transformer:POWER QUALITY INTERNATIONAL:DV30-60-030-480:208/120-150-AL-ZS,DV30-60-030-480:208/120-150-AL-ZS,47,POWER QUALITY INTERNATIONAL
+48,Variable Air Volume Terminal:Price:SDV5,SDV5,48,Price
+49,Variable Air Volume Terminal:PRICE:SDV5,SDV5,49,PRICE
+50,Variable Air Volume Terminal:Price:SDV5,SDV5,50,Price
+51,Variable Air Volume Terminal:PRICE:SDV5,SDV5,51,PRICE
+52,Variable Air Volume Terminal:Price:SDV5,SDV5,52,Price
+53,Variable Air Volume Terminal:PRICE:SDV5,SDV5,53,PRICE
+54,Variable Air Volume Terminal:Price:SDV5,SDV5,54,Price
+55,Variable Air Volume Terminal:PRICE:SDV5,SDV5,55,PRICE
+56,Variable Air Volume Terminal:Price:SDV,SDV,56,Price
+57,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,57,PRICE
+58,Variable Air Volume Terminal:Price:SDV,SDV,58,Price
+59,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,59,PRICE
+60,Variable Air Volume Terminal:Price:SDV,SDV,60,Price
+61,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,61,PRICE
+62,Variable Air Volume Terminal:Price:SDV,SDV,62,Price
+63,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,63,PRICE
+64,Variable Air Volume Terminal:Price:SDV,SDV,64,Price
+65,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,65,PRICE
+66,Variable Air Volume Terminal:Price:SDV,SDV,66,Price
+67,Variable Air Volume Terminal:PRICE:SDV,SDV,67,PRICE
+68,Variable Air Volume Terminal:Price:SDV,SDV,68,Price
+69,Variable Air Volume Terminal:PRICE:SDV,SDV,69,PRICE
+70,Variable Air Volume Terminal:Price:SDV,SDV,70,Price
+71,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,71,PRICE
+72,Variable Air Volume Terminal:Price:SDV,SDV,72,Price
+73,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,73,PRICE
+74,Variable Air Volume Terminal:Price:SDV,SDV,74,Price
+75,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,75,PRICE
+76,Variable Air Volume Terminal:Price:SDV,SDV,76,Price
+77,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,77,PRICE
+78,Variable Air Volume Terminal:Price:SDV,SDV,78,Price
+79,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,79,PRICE
+80,Variable Air Volume Terminal:Price:SDV,SDV,80,Price
+81,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,81,PRICE
+82,Variable Air Volume Terminal:Price:SDV,SDV,82,Price
+83,Variable Air Volume Terminal:PRICE:SDV,SDV,83,PRICE
+84,Variable Air Volume Terminal:Price:SDV,SDV,84,Price
+85,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,85,PRICE
+86,Variable Air Volume Terminal:Price:SDV,SDV,86,Price
+87,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,87,PRICE
+88,Variable Air Volume Terminal:Price:SDV,SDV,88,Price
+89,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,89,PRICE
+90,Variable Air Volume Terminal:Price:SDV,SDV,90,Price
+91,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,91,PRICE
+92,Variable Air Volume Terminal:Price:SDV,SDV,92,Price
+93,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,93,PRICE
+94,Variable Air Volume Terminal:Price:SDV,SDV,94,Price
+95,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,95,PRICE
+96,Variable Air Volume Terminal:Price:SDV,SDV,96,Price
+97,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,97,PRICE
+98,Variable Air Volume Terminal:Price:SDV,SDV,98,Price
+99,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,99,PRICE
+100,Variable Air Volume Terminal:Price:SDV,SDV,100,Price
+101,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,101,PRICE
+102,Variable Air Volume Terminal:Price:SDV,SDV,102,Price
+103,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,103,PRICE
+104,Variable Air Volume Terminal:Price:SDV,SDV,104,Price
+105,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,105,PRICE
+106,Variable Air Volume Terminal:Price:SDV,SDV,106,Price
+107,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,107,PRICE
+108,Variable Air Volume Terminal:Price:SDV,SDV,108,Price
+109,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,109,PRICE
+110,Variable Air Volume Terminal:Price:SDV,SDV,110,Price
+111,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,111,PRICE
+112,Variable Air Volume Terminal:Price:SDV,SDV,112,Price
+113,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,113,PRICE
+114,Variable Air Volume Terminal:Price:SDV,SDV,114,Price
+115,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,115,PRICE
+116,Variable Air Volume Terminal:Price:SDV,SDV,116,Price
+117,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,117,PRICE
+118,Variable Air Volume Terminal:Price:SDV,SDV,118,Price
+119,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,119,PRICE
+120,Variable Air Volume Terminal:Price:SDV,SDV,120,Price
+121,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,121,PRICE
+122,Variable Air Volume Terminal:Price:SDV,SDV,122,Price
+123,Variable Air Volume Terminal:PRICE:SDV-2-1,SDV-2-1,123,PRICE
+124,Variable Air Volume Terminal:Price:SDV,SDV,124,Price
+125,Variable Air Volume Terminal:PRICE:SDV,SDV,125,PRICE
+126,Rotary Screw Air Compressor:Quincy:V310,V310,126,Quincy
+127,Surge Protective Device:Southern Tier Technologies:T45120Y100AWAJ2S,T45120Y100AWAJ2S,127,Southern Tier Technologies
+128,Surge Protective Device:Southern Tier Technologies:T45277Y100AWAJ2S,T45277Y100AWAJ2S,128,Southern Tier Technologies
+129,Electrical Panelboard:Eaton:PRL‑2A,PRL‑2A,129,Eaton
+130,Electrical Panelboard:Siemens:P1E42MC250CT,P1E42MC250CT,130,Siemens
+131,Electrical Panelboard:GE:AQU3422RCXAXT1B4,AQU3422RCXAXT1B4,131,GE
+132,Electrical Panelboard:Siemens:P1E42MC250CT,P1E42MC250CT,132,Siemens
+133,Electrical Panelboard:GE:AQU3422RCXAXT1B4,AQU3422RCXAXT1B4,133,GE
+134,Electrical Panelboard:Eaton:PRL‑2A,PRL‑2A,134,Eaton
+135,Electrical Disconnect Switch:Eaton:NF290050866637000356,NF290050866637000356,135,Eaton
+136,Electric Unit Heater:King Electric:PKB‑5‑1‑TB,PKB‑5‑1‑TB,136,King Electric
+137,Electric Unit Heater:King Electric:PKB‑5‑1‑TB,PKB‑5‑1‑TB,137,King Electric
+138,Heating Module:Generic,,138,
+139,Lighting Module:Generic,,139,
+140,Lighting Panel:Generic,,140,
+141,Automatic Transfer Switch:Generic,BTPCC*2410738,141,
+142,Automatic Transfer Switch:Generic,BTPCC*2490737,142,
+143,Packaged Heat Pump:Generic,,143,
+144,Packaged Heat Pump:Nordyne:921484,921484,144,Nordyne
+145,Furnace:Armstrong Air:41W51,41W51,145,Armstrong Air
+146,Air Handler:Goodman / Amana:B13400312S,B13400312S,146,Goodman / Amana
+147,Electrical Distribution Unit:Eaton:PRL2A‑225A,PRL2A‑225A,147,Eaton
+148,Lighting Module:Midea:11002015006201,11002015006201,148,Midea
+149,Lighting Panel:Generic,NQ290050866637000440,149,
+150,Lighting Panel:Generic,NQ290050866637000380,150,
+151,Main Switchboard:Generic,M07886133 / M07256161,151,
+152,Surge Protective Device:Generic,T45277Y125ALAM1C,152,
+153,Dry-Type Transformer:Generic,,153,
+154,Dry-Type Transformer:Generic,,154,
+155,Dry-Type Transformer:Generic,PHA9586703,155,
+156,Dry-Type Transformer:Generic,DV30-60-030-480:208/120-150-AL-ZS,156,
+157,Dry-Type Transformer:Generic,DV30-60-015-480:208/120-150-AL-ZS,157,
+158,Dry-Type Transformer:Generic,,158,
+
+-------------- Test 2 --------------
+no values found
+
+-------------- Test 3 --------------
+0
+
+-------------- Test 4 --------------
+no values found
+
+-------------- Test 5 --------------
+TotalProducts,ValidManufacturerLinks,InvalidManufacturerLinks
+158,158,0
+
+-------------- Test 6 --------------
+no values found
+
+-------------- Test 7 --------------
+ProductID,ManufacturerName,ModelNum,GeneratedProductName
+138,,,Heating Module:Generic
+139,,,Lighting Module:Generic
+140,,,Lighting Panel:Generic
+143,,,Packaged Heat Pump:Generic
+153,,,Dry-Type Transformer:Generic
+154,,,Dry-Type Transformer:Generic
+158,,,Dry-Type Transformer:Generic
+141,,BTPCC*2410738,Automatic Transfer Switch:Generic
+142,,BTPCC*2490737,Automatic Transfer Switch:Generic
+157,,DV30-60-015-480:208/120-150-AL-ZS,Dry-Type Transformer:Generic
+156,,DV30-60-030-480:208/120-150-AL-ZS,Dry-Type Transformer:Generic
+151,,M07886133 / M07256161,Main Switchboard:Generic
+150,,NQ290050866637000380,Lighting Panel:Generic
+149,,NQ290050866637000440,Lighting Panel:Generic
+155,,PHA9586703,Dry-Type Transformer:Generic
+152,,T45277Y125ALAM1C,Surge Protective Device:Generic
+1,Aaon,RQ-003,Packaged Rooftop Unit:Aaon:RQ-003
+2,AAON,RQ-003,Packaged Rooftop Unit:AAON:RQ-003
+7,Armstrong,50-L,Expansion Vessel:Armstrong:50-L
+8,Armstrong,50-L,Expansion Vessel:Armstrong:50-L
+4,Armstrong,VAS-2,Air Separator:Armstrong:VAS-2
+3,Armstrong,VAS-6U,Air Separator:Armstrong:VAS-6U
+145,Armstrong Air,41W51,Furnace:Armstrong Air:41W51
+11,Bell & Gossett,TP 40LP5/5.2,Hydronic Circulation Pump:Bell & Gossett:TP 40LP5/5.2
+12,Bell & Gossett,TP 40LP5/5.2,Hydronic Circulation Pump:Bell & Gossett:TP 40LP5/5.2
+13,Bell & Gossett,TP 40LP5/5.2,Hydronic Circulation Pump:Bell & Gossett:TP 40LP5/5.2
+14,Bell & Gossett,TP 40LP5/5.2,Hydronic Circulation Pump:Bell & Gossett:TP 40LP5/5.2
+9,Bell & Gossett,XL 65‑130,Hydronic Circulation Pump:Bell & Gossett:XL 65‑130
+10,Bell & Gossett,XL 65‑130,Hydronic Circulation Pump:Bell & Gossett:XL 65‑130
+25,CaptiveAire,DU50HFA / DU85HFA,Extract Fan:CaptiveAire:DU50HFA / DU85HFA
+26,CaptiveAire,DU50HFA / DU85HFA,Extract Fan:CaptiveAire:DU50HFA / DU85HFA
+15,Condair,RS 180,Steam Humidifier:Condair:RS 180
+16,Cummins,,Standby Generator:Cummins
+17,Daikin,R32‑10T,Air-Cooled Chiller:Daikin:R32‑10T
+135,Eaton,NF290050866637000356,Electrical Disconnect Switch:Eaton:NF290050866637000356
+129,Eaton,PRL‑2A,Electrical Panelboard:Eaton:PRL‑2A
+134,Eaton,PRL‑2A,Electrical Panelboard:Eaton:PRL‑2A
+147,Eaton,PRL2A‑225A,Electrical Distribution Unit:Eaton:PRL2A‑225A
+131,GE,AQU3422RCXAXT1B4,Electrical Panelboard:GE:AQU3422RCXAXT1B4
+133,GE,AQU3422RCXAXT1B4,Electrical Panelboard:GE:AQU3422RCXAXT1B4
+146,Goodman / Amana,B13400312S,Air Handler:Goodman / Amana:B13400312S
+18,Greenheck,SP-A390-VG,Extract Fan:Greenheck:SP-A390-VG
+19,Greenheck,SP-B200,Extract Fan:Greenheck:SP-B200
+20,Greenheck,SP-B200,Extract Fan:Greenheck:SP-B200
+21,Greenheck,SP-B200,Extract Fan:Greenheck:SP-B200
+22,Greenheck,SP-B200,Extract Fan:Greenheck:SP-B200
+23,Greenheck,SP-B200,Extract Fan:Greenheck:SP-B200
+24,Greenheck,SQ-140-VG,Extract Fan:Greenheck:SQ-140-VG
+5,Grundfos,TP 40LP5/5.2,Hydronic Circulation Pump:Grundfos:TP 40LP5/5.2
+6,Grundfos,TP 40LP5/5.2,Hydronic Circulation Pump:Grundfos:TP 40LP5/5.2
+27,Grundfos,TP 40LP5/5.2,Hydronic Circulation Pump:Grundfos:TP 40LP5/5.2
+28,Grundfos,TP 40LP5/5.2,Hydronic Circulation Pump:Grundfos:TP 40LP5/5.2
+29,Huntair,CSU,Air Handling Unit:Huntair:CSU
+30,Huntair,CSU,Air Handling Unit:Huntair:CSU
+31,IAC,3LFL 44X24,Duct Silencer:IAC:3LFL 44X24
+32,IAC,3LFL 48X24,Duct Silencer:IAC:3LFL 48X24
+33,IAC,3LFL 48X24,Duct Silencer:IAC:3LFL 48X24
+136,King Electric,PKB‑5‑1‑TB,Electric Unit Heater:King Electric:PKB‑5‑1‑TB
+137,King Electric,PKB‑5‑1‑TB,Electric Unit Heater:King Electric:PKB‑5‑1‑TB
+34,Lochinvar,KHB285N,Gas-Fired Boiler:Lochinvar:KHB285N
+35,Lochinvar,KHB285N,Gas-Fired Boiler:Lochinvar:KHB285N
+148,Midea,11002015006201,Lighting Module:Midea:11002015006201
+36,MITSUBISHI,IDU: PKA-AL18NL (R-454B)                                                  ODU: PUZ-AK18NL,Split Air-Conditioning System:MITSUBISHI:IDU: PKA-AL18NL (R-454B)                                                  ODU: PUZ-AK18NL
+38,MITSUBISHI,IDU: PKA-AL18NL (R-454B)                                                  ODU: PUZ-AK18NL,Split Air-Conditioning System:MITSUBISHI:IDU: PKA-AL18NL (R-454B)                                                  ODU: PUZ-AK18NL
+40,MITSUBISHI,IDU: PKA-AL18NL (R-454B)                                                  ODU: PUZ-AK18NL,Split Air-Conditioning System:MITSUBISHI:IDU: PKA-AL18NL (R-454B)                                                  ODU: PUZ-AK18NL
+42,MITSUBISHI,IDU: PKA-AL18NL (R-454B)                                                  ODU: PUZ-AK18NL,Split Air-Conditioning System:MITSUBISHI:IDU: PKA-AL18NL (R-454B)                                                  ODU: PUZ-AK18NL
+44,MITSUBISHI,IDU: PKA-AL18NL (R-454B)                                                  ODU: PUZ-AK18NL,Split Air-Conditioning System:MITSUBISHI:IDU: PKA-AL18NL (R-454B)                                                  ODU: PUZ-AK18NL
+37,Mitsubishi,IDU: PKA-AL18NL / ODU: PUZ-AK18NL,Split Air-Conditioning System:Mitsubishi:IDU: PKA-AL18NL / ODU: PUZ-AK18NL
+39,Mitsubishi,IDU: PKA-AL18NL / ODU: PUZ-AK18NL,Split Air-Conditioning System:Mitsubishi:IDU: PKA-AL18NL / ODU: PUZ-AK18NL
+41,Mitsubishi,IDU: PKA-AL18NL / ODU: PUZ-AK18NL,Split Air-Conditioning System:Mitsubishi:IDU: PKA-AL18NL / ODU: PUZ-AK18NL
+43,Mitsubishi,IDU: PKA-AL18NL / ODU: PUZ-AK18NL,Split Air-Conditioning System:Mitsubishi:IDU: PKA-AL18NL / ODU: PUZ-AK18NL
+45,Mitsubishi,IDU: PKA-AL18NL / ODU: PUZ-AK18NL,Split Air-Conditioning System:Mitsubishi:IDU: PKA-AL18NL / ODU: PUZ-AK18NL
+144,Nordyne,921484,Packaged Heat Pump:Nordyne:921484
+47,POWER QUALITY INTERNATIONAL,DV30-60-030-480:208/120-150-AL-ZS,Dry-Type Transformer:POWER QUALITY INTERNATIONAL:DV30-60-030-480:208/120-150-AL-ZS
+46,POWER QUALITY INTERNATIONAL,DV30-60-045-480:208/120-150-AL-ZS,Dry-Type Transformer:POWER QUALITY INTERNATIONAL:DV30-60-045-480:208/120-150-AL-ZS
+56,Price,SDV,Variable Air Volume Terminal:Price:SDV
+58,Price,SDV,Variable Air Volume Terminal:Price:SDV
+60,Price,SDV,Variable Air Volume Terminal:Price:SDV
+62,Price,SDV,Variable Air Volume Terminal:Price:SDV
+64,Price,SDV,Variable Air Volume Terminal:Price:SDV
+66,Price,SDV,Variable Air Volume Terminal:Price:SDV
+67,PRICE,SDV,Variable Air Volume Terminal:PRICE:SDV
+68,Price,SDV,Variable Air Volume Terminal:Price:SDV
+69,PRICE,SDV,Variable Air Volume Terminal:PRICE:SDV
+70,Price,SDV,Variable Air Volume Terminal:Price:SDV
+72,Price,SDV,Variable Air Volume Terminal:Price:SDV
+74,Price,SDV,Variable Air Volume Terminal:Price:SDV
+76,Price,SDV,Variable Air Volume Terminal:Price:SDV
+78,Price,SDV,Variable Air Volume Terminal:Price:SDV
+80,Price,SDV,Variable Air Volume Terminal:Price:SDV
+82,Price,SDV,Variable Air Volume Terminal:Price:SDV
+83,PRICE,SDV,Variable Air Volume Terminal:PRICE:SDV
+84,Price,SDV,Variable Air Volume Terminal:Price:SDV
+86,Price,SDV,Variable Air Volume Terminal:Price:SDV
+88,Price,SDV,Variable Air Volume Terminal:Price:SDV
+90,Price,SDV,Variable Air Volume Terminal:Price:SDV
+92,Price,SDV,Variable Air Volume Terminal:Price:SDV
+94,Price,SDV,Variable Air Volume Terminal:Price:SDV
+96,Price,SDV,Variable Air Volume Terminal:Price:SDV
+98,Price,SDV,Variable Air Volume Terminal:Price:SDV
+100,Price,SDV,Variable Air Volume Terminal:Price:SDV
+102,Price,SDV,Variable Air Volume Terminal:Price:SDV
+104,Price,SDV,Variable Air Volume Terminal:Price:SDV
+106,Price,SDV,Variable Air Volume Terminal:Price:SDV
+108,Price,SDV,Variable Air Volume Terminal:Price:SDV
+110,Price,SDV,Variable Air Volume Terminal:Price:SDV
+112,Price,SDV,Variable Air Volume Terminal:Price:SDV
+114,Price,SDV,Variable Air Volume Terminal:Price:SDV
+116,Price,SDV,Variable Air Volume Terminal:Price:SDV
+118,Price,SDV,Variable Air Volume Terminal:Price:SDV
+120,Price,SDV,Variable Air Volume Terminal:Price:SDV
+122,Price,SDV,Variable Air Volume Terminal:Price:SDV
+124,Price,SDV,Variable Air Volume Terminal:Price:SDV
+125,PRICE,SDV,Variable Air Volume Terminal:PRICE:SDV
+57,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+59,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+61,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+63,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+65,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+71,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+73,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+75,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+77,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+79,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+81,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+85,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+87,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+89,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+91,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+93,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+95,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+97,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+99,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+101,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+103,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+105,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+107,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+109,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+111,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+113,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+115,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+117,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+119,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+121,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+123,PRICE,SDV-2-1,Variable Air Volume Terminal:PRICE:SDV-2-1
+48,Price,SDV5,Variable Air Volume Terminal:Price:SDV5
+49,PRICE,SDV5,Variable Air Volume Terminal:PRICE:SDV5
+50,Price,SDV5,Variable Air Volume Terminal:Price:SDV5
+51,PRICE,SDV5,Variable Air Volume Terminal:PRICE:SDV5
+52,Price,SDV5,Variable Air Volume Terminal:Price:SDV5
+53,PRICE,SDV5,Variable Air Volume Terminal:PRICE:SDV5
+54,Price,SDV5,Variable Air Volume Terminal:Price:SDV5
+55,PRICE,SDV5,Variable Air Volume Terminal:PRICE:SDV5
+126,Quincy,V310,Rotary Screw Air Compressor:Quincy:V310
+130,Siemens,P1E42MC250CT,Electrical Panelboard:Siemens:P1E42MC250CT
+132,Siemens,P1E42MC250CT,Electrical Panelboard:Siemens:P1E42MC250CT
+127,Southern Tier Technologies,T45120Y100AWAJ2S,Surge Protective Device:Southern Tier Technologies:T45120Y100AWAJ2S
+128,Southern Tier Technologies,T45277Y100AWAJ2S,Surge Protective Device:Southern Tier Technologies:T45277Y100AWAJ2S

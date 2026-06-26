@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
-    <file url="file://$PROJECT_DIR$/src/data population.sql" value="e7ec257d-4108-45a6-8eb6-7469a6b0a9e1" />
-    <file url="file://$PROJECT_DIR$/src/helper/Drop Order.sql" value="e7ec257d-4108-45a6-8eb6-7469a6b0a9e1" />
-    <file url="file://$PROJECT_DIR$/src/helper/Testing.sql" value="e7ec257d-4108-45a6-8eb6-7469a6b0a9e1" />
-    <file url="file://$PROJECT_DIR$/src/tables creation.sql" value="e7ec257d-4108-45a6-8eb6-7469a6b0a9e1" />
+    <file url="file://$PROJECT_DIR$/src/data_population.sql" value="e7ec257d-4108-45a6-8eb6-7469a6b0a9e1" />
+    <file url="file://$PROJECT_DIR$/src/helper/drop_order.sql" value="e7ec257d-4108-45a6-8eb6-7469a6b0a9e1" />
+    <file url="file://$PROJECT_DIR$/src/helper/testing_products.sql" value="e7ec257d-4108-45a6-8eb6-7469a6b0a9e1" />
+    <file url="file://$PROJECT_DIR$/src/tables_creation.sql" value="e7ec257d-4108-45a6-8eb6-7469a6b0a9e1" />
   </component>
 </project>
