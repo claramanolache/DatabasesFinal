@@ -25,9 +25,10 @@ CREATE TABLE Product (
 
 CREATE TABLE Asset (
    AssetID INT AUTO_INCREMENT PRIMARY KEY,
-   Name VARCHAR(300) NOT NULL,
+   Name VARCHAR(500) NOT NULL,
    ProductID INT NOT NULL,
-   SerialNumber INT,
+   SerialNumber VARCHAR(300),
    CONSTRAINT FK_Asset_Product FOREIGN KEY (ProductID)
        REFERENCES Product (ProductID)
 );
+

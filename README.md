@@ -11,3 +11,7 @@ Required to use an AI assistant to populate data in SQL from source data (CMMS_a
 **src/helper/drop_order.sql** - use this if the tables need to be reset. It drops the tables in the correct order to account for foreign key relationships and prevent errors caused by linked columns.
 
 **src/helper/testing_products.sql** - contains test queries used to verify that the tables were created correctly, all data was inserted, foreign keys are valid, and no required records are missing.
+
+**src/helper/testing_products_results.txt** - copied return values of select statment, proved products working as intended
+
+**src/helper/testing_assets.sql** - results proved assets table working as intended 
